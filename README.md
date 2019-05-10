@@ -3,7 +3,7 @@ Javafx beginner contact App
 
 This is a basic  JavaFx contacts app.
 
-RUN
+## RUN
 
 Simply compile the project and run to bring up the GUI. 
 
